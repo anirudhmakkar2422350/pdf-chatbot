@@ -36,3 +36,19 @@ Retrieval Augmented Generation (RAG).
 
 ## 🔹 Author
 Anirudh Makkar (BTech CSE – AI & ML)
+
+## 💼 Custom Work / Freelance
+I can customize this RAG-based PDF chatbot for:
+- Company documents
+- College notes
+- Resumes & reports
+- Internal knowledge bases
+
+Features I can add:
+- Custom PDFs
+- Multiple document support
+- Better prompts
+- UI (Streamlit)
+
+📩 For paid customization or collaboration, please open an Issue or Discussion in this repository.
+
